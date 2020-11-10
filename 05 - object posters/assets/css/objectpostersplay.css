@@ -1,0 +1,33 @@
+.bg {
+  position: relative;
+}
+
+.play {
+	position: absolute;
+    top: 49%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: OCR A Std;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    display: fixed;
+    align-items: center;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+.backArrow {
+    position: absolute;
+    top: 72%;
+    left: 86.5%;
+    transform: translate(-50%, -50%);
+    font-family: OCR A Std;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    display: fixed;
+    align-items: center;
+    text-align: justify;
+    color: #000000;
+}
